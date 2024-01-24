@@ -1,0 +1,5 @@
+Key Store Path: C:\Users\Murat Ozcubukcu\Documents\MKO_Review\MKO_App_Android_Studio\MKO_Review.jks
+Pass: BlueSky#01
+
+Alias: MKO
+Pass: BlueSky#01
