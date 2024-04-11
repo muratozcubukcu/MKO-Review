@@ -1,4 +1,0 @@
-Host:
-107.180.51.106
-User: murat@sibels.com
-Pwd: pTE8Vz3n$$@}
