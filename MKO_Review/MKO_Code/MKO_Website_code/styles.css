@@ -4,12 +4,15 @@
   --color-secondary: #F0F7EE;
   --duration: 1s;
   --nav-duration: calc(var(--duration) / 4);
-  --ease: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --ease: cubic-bezier(0.19, 1, 0.22, 1); /* Replaced with --e from styles4.css */
   --space: 1rem;
   --font-primary: 'Helvetica', sans-serif;
   --font-heading: 'Merriweather', serif;
   --font-size: 1.125rem;
   --line-height: 1.5;
+  --d: 700ms; /* Added from styles4.css */
+  --font-sans: 'Rubik', sans-serif; /* Added from styles4.css */
+  --font-serif: 'Cardo', serif; /* Added from styles4.css */
 }
 * {
   box-sizing: border-box;
@@ -297,18 +300,7 @@ h1 {
   transform: translateY(-50%);
   transition: transform calc(var(--d) * 2) var(--e);
 }
-.card:nth-child(1):before {
-  background-image: url(Images/Daniels-Broiler-Bellevue-Main-Bar-copy.jpg);
-}
-.card:nth-child(2):before {
-  background-image: url(Images/outback-steakhouse.jpg);
-}
-.card:nth-child(3):before {
-  background-image: url(Images/metropolitan-grill-03.jpg);
-}
-.card:nth-child(4):before {
-  background-image: url(Images/HomePort_Kirkland_01.jpg);
-}
+/* Rules for card:nth-child(1) through card:nth-child(4) removed. */
 
 
 
@@ -431,3 +423,6 @@ h1 {
 
 
 
+
+/* Appended content from styles4.css starts here */
+/* Remaining body rule from styles4.css removed as it's covered by the main body rule. */
