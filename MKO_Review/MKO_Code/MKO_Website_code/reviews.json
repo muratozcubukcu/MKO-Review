@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daniels Broiler",
+    "copy": "Located in the beautiful Pacific Northwest, this chain of exclusive steakhouses promises an unforgettable dining experience for meat lovers and wine connoisseurs alike.",
+    "href": "daniels.html",
+    "image": "Images/Daniels-Broiler-Bellevue-Main-Bar-copy.jpg"
+  },
+  {
+    "title": "Outback Steakhouse",
+    "copy": "From their famous bloomin' onion appetizer to their succulent steaks, grilled chicken, and seafood entrees, there's something for everyone on the menu at Outback.",
+    "href": "outback.html",
+    "image": "Images/outback-steakhouse.jpg"
+  },
+  {
+    "title": "Metropolitan Grill",
+    "copy": "Located in Seattle, Washington, known for its premium cuts of meat, extensive wine list, and sophisticated dining atmosphere.",
+    "href": "grill.html",
+    "image": "Images/metropolitan-grill-03.jpg"
+  },
+  {
+    "title": "Anthony's HomePort",
+    "copy": "located in Des Moines, Washington, known for its fresh and delicious seafood dishes and breathtaking waterfront views.",
+    "href": "anthony.html",
+    "image": "Images/HomePort_Kirkland_01.jpg"
+  },
+  {
+    "title": "Seastar",
+    "copy": "located in Bellevue, Washington, known for its fresh and locally sourced ingredients, the menu features a wide range of seafood dishes, including raw bar items, sushi, and grilled fish.",
+    "href": "Seastar.html",
+    "image": "Images/Seastar.jpg"
+  },
+  {
+    "title": "John Howie Steak",
+    "copy": "An upscale Bellevue steakhouse renowned for its prime cuts of beef, expert preparation, and elegant ambiance. A must-visit for steak enthusiasts and special occasions.",
+    "href": "JohnHowie.html",
+    "image": "Images/John-Howie.jpg"
+  },
+  {
+    "title": "Roka",
+    "copy": "Roka, nestled in the heart of Galataport, Istanbul, offers a culinary journey that beautifully combines the flavors of Japan with a modern twist",
+    "href": "Roka.html",
+    "image": "Images/Roka.jpg"
+  }
+]

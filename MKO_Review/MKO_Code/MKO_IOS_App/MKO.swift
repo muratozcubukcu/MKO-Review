@@ -1,3 +1,4 @@
+// Copyright © 2024 MKO. All rights reserved.
 import UIKit
 import WebKit
 
